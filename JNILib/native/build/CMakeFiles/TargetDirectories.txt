@@ -1,0 +1,3 @@
+/home/gavinandre/Workspace/IdeaProjects/JNIWebServer/JNILib/native/build/CMakeFiles/edit_cache.dir
+/home/gavinandre/Workspace/IdeaProjects/JNIWebServer/JNILib/native/build/CMakeFiles/rebuild_cache.dir
+/home/gavinandre/Workspace/IdeaProjects/JNIWebServer/JNILib/native/build/CMakeFiles/NativeLib.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libNativeLib.so -o libNativeLib.so CMakeFiles/NativeLib.dir/NativeLib.cpp.o 
