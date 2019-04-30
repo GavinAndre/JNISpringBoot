@@ -1,11 +1,10 @@
 package com.gavinandre.jnispringboot.jni;
 
-import java.net.URL;
-
 public class NativeLib {
     static {
-        URL url = NativeLib.class.getClassLoader().getResource("jniLibs/libNativeLib.so");
-        System.load(url.getPath());
+        // URL url = NativeLib.class.getClassLoader().getResource("jniLibs/libNativeLib.so");
+        // System.load(url.getPath());
+        LibLoader.loadLib("jniLibs/libNativeLib.so");
     }
 
     public static void main(String[] args) {
